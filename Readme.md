@@ -8,8 +8,7 @@ Welcome to the Typing Test project! This is a simple web application that allows
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
